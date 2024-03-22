@@ -1,4 +1,4 @@
 # Customer
 
-Bascic CRUD operation of customer using .net7.0
+Basic CRUD operation of customer using .net7.0
  
