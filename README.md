@@ -1,3 +1,4 @@
 # Customer
 
-Bascic CRUD operation of customer 
+Bascic CRUD operation of customer using .net7.0
+ 
